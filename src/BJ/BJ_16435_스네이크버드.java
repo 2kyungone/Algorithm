@@ -1,4 +1,4 @@
-package SWEA;
+package BJ;
 import java.util.Arrays;
 import java.util.Scanner;
 
@@ -9,7 +9,7 @@ import java.util.Scanner;
  * @author SSAFY
  *
  */
-public class Boj_16435_스네이크버드 {
+public class BJ_16435_스네이크버드 {
 
 	static int N; // 과일의 개수
 	static int L; // 버드의 초기 길이
